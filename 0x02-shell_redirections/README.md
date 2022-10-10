@@ -12,3 +12,4 @@
 11. 
 1. script that displays a confused smiley
 2. script that Display the content of the /etc/passwd file
+3. Display the content of /etc/passwd and /etc/hosts
